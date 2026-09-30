@@ -10,7 +10,7 @@
 
 ## 📂 Weekly Modules & Deliverables
 
-- **[Week 01: Data Science Orientation & Problem Definition in Beauty & Wellness](Week-01/)** - Completed[cite: 1]
+- **[Week 01: Data Science Orientation & Problem Definition in Beauty & Wellness](Week-01/)** - Completed
 - **Week 02: Data Collection & Quality Audit** - Pending
 - **Week 03: Exploratory Data Analysis (EDA)** - Pending
 - **Week 04: Feature Engineering & Preprocessing** - Pending
